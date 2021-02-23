@@ -1,0 +1,9 @@
+# English strings go here for Rails i18n
+zh:
+  label_zen_placeholder: 发表评论
+  label_click_for_edit: 点击编辑
+  label_unsaved_issue: 你有一个未保存的问题. 你想恢复它吗?
+  label_unsaved_wiki: You have an unsaved wiki page. Do you want to restore it?
+  label_created_time: 创建于 %{value} 之前
+  label_zen_user_mentions: 用户提及
+  label_zen_issue_mentions: 问题提及
