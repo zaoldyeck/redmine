@@ -55,3 +55,6 @@ en:
   tags_order_by_name: Name
   tags_order_by_last_created: Last created
   tags_order_by_most_used: Most used
+
+  label_overall_spent_time: Overall spent time
+  label_overall_activity: Overall activity
