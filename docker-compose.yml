@@ -12,11 +12,11 @@ services:
       REDMINE_DATABASE_TYPE: postgresql
       REDMINE_DATABASE_HOST: db
 #      REDMINE_DATABASE_HOST: production.czqqidnugvnf.ap-northeast-2.rds.amazonaws.com
-      REDMINE_DB_PORT_NUMBER: 5432
-      REDMINE_DB_USERNAME: postgres
-      REDMINE_DB_PASSWORD: postgres
-#      REDMINE_DB_PASSWORD: PWSeS6kX
-      REDMINE_DB_NAME: redmine
+      REDMINE_DATABASE_PORT_NUMBER: 5432
+      REDMINE_DATABASE_NAME: redmine
+      REDMINE_DATABASE_USER: postgres
+      REDMINE_DATABASE_PASSWORD: postgres
+#      REDMINE_DATABASE_PASSWORD: PWSeS6kX
     depends_on:
       - db
 
