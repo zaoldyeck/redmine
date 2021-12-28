@@ -1,0 +1,7 @@
+[submodule "plugins/clipboard_image_paste"]
+	path = plugins/clipboard_image_paste
+	url = https://github.com/peclik/clipboard_image_paste.git
+[submodule "plugins/redmine_issues_tree"]
+	path = plugins/redmine_issues_tree
+	url = https://github.com/Loriowar/redmine_issues_tree.git
+	branch = 4.1.x
